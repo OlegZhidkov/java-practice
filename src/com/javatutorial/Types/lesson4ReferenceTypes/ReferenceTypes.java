@@ -1,4 +1,4 @@
-package com.javatutorial.Types;
+package com.javatutorial.Types.lesson4ReferenceTypes;
 
 import java.util.Date;
 
@@ -19,6 +19,5 @@ public class ReferenceTypes {
  * object has a reference to the location of values
  *
  * - reference types are copied by their reference
- * - primitive types are copied by their values
- * that are independent of each other
+ * - primitive types are copied by their values that are independent of each other
  */

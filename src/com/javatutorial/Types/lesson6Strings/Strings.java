@@ -1,4 +1,4 @@
-package com.javatutorial.Types;
+package com.javatutorial.Types.lesson6Strings;
 
 import java.nio.charset.StandardCharsets;
 
@@ -11,6 +11,7 @@ public class Strings {
         System.out.println("Hey!" + newMessage + " "
                 + newMessage.length());
 
-        System.out.println(newMessage.compareToIgnoreCase("hello world!! hello guy"));
+        System.out.println(
+                newMessage.compareToIgnoreCase("hello world!! hello guy"));
     }
 }

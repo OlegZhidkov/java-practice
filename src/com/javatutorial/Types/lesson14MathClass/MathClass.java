@@ -1,4 +1,4 @@
-package com.javatutorial.Types;
+package com.javatutorial.Types.lesson14MathClass;
 
 public class MathClass {
     public static void main(String[] args) {

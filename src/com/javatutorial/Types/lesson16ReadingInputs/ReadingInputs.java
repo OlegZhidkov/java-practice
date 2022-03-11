@@ -1,4 +1,4 @@
-package com.javatutorial.Types;
+package com.javatutorial.Types.lesson16ReadingInputs;
 
 import java.util.Scanner;
 

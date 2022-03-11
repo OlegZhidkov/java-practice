@@ -1,4 +1,4 @@
-package com.javatutorial.Types;
+package com.javatutorial.Types.lesson13Casting;
 
 public class CastingLesson {
     public static void main(String[] args) {

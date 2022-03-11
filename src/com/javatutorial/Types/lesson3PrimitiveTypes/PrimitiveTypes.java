@@ -1,4 +1,4 @@
-package com.javatutorial.Types;
+package com.javatutorial.Types.lesson3PrimitiveTypes;
 
 public class PrimitiveTypes {
     public static void main(String[] args) {
@@ -8,6 +8,7 @@ public class PrimitiveTypes {
         float price = 10.99F;
         char letter = 'A'; //multi characters with double quotes
         boolean isEligible = false;
+        double num = 1.45;
     }
 
 }

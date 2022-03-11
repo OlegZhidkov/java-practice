@@ -1,4 +1,4 @@
-package com.javatutorial.Types;
+package com.javatutorial.Types.lesson10Constants;
 
 public class ConstantsLesson {
     public static void main(String[] args) {

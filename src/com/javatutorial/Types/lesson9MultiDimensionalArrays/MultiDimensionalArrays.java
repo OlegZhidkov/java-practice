@@ -1,4 +1,4 @@
-package com.javatutorial.Types;
+package com.javatutorial.Types.lesson9MultiDimensionalArrays;
 
 import java.util.Arrays;
 

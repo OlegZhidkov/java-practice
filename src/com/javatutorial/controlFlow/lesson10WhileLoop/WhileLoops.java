@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson10WhileLoop;
 
 import java.util.Locale;
 import java.util.Scanner;

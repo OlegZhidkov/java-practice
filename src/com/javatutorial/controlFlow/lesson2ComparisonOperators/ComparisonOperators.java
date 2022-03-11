@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson2ComparisonOperators;
 
 public class ComparisonOperators {
     public static void main(String[] args) {

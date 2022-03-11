@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson13BreakContinue;
 
 import java.util.Scanner;
 

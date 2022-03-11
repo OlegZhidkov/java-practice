@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson4IfStatements;
 
 public class IfStatements {
     public static void main(String[] args) {

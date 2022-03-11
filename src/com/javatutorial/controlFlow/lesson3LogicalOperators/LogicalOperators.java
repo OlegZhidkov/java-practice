@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson3LogicalOperators;
 
 public class LogicalOperators {
     public static void main(String[] args) {

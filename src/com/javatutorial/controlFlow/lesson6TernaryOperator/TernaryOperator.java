@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson6TernaryOperator;
 
 public class TernaryOperator {
     public static void main(String[] args) {

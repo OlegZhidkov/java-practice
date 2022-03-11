@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson8FizzBuzz;
 
 import java.util.Scanner;
 

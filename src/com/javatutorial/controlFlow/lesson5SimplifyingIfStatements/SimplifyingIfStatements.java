@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson5SimplifyingIfStatements;
 
 // declaring variable is
 // only possible in code blocks: "{ }"

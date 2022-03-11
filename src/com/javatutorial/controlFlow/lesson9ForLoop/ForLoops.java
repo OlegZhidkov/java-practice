@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson9ForLoop;
 
 public class ForLoops {
     public static void main(String[] args) {

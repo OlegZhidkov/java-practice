@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson12ForEachLoop;
 
 // This type of loop is for iterating arrays or collections
 

@@ -1,4 +1,4 @@
-package com.javatutorial.controlFlow;
+package com.javatutorial.controlFlow.lesson11DoWhileLoop;
 
 import java.util.Scanner;
 

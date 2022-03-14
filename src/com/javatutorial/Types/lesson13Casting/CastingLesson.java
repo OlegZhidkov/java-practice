@@ -1,5 +1,7 @@
 package com.javatutorial.Types.lesson13Casting;
 
+import static java.lang.Character.MIN_RADIX;
+
 public class CastingLesson {
     public static void main(String[] args) {
         // Implicit casting - when a variable can convert to
@@ -23,6 +25,8 @@ public class CastingLesson {
         // To cast we need to use a Wrapper Class:
         //Integer.parseInt(e);
         int f = Integer.parseInt(e) + 2;
-        System.out.println(f);
+        double g = Double.parseDouble(e) + 12224.44;
+        Float fl = Float.parseFloat(e) + 1.5F;
+        System.out.println(fl);
     }
 }

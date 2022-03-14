@@ -11,5 +11,12 @@ public class MultiDimensionalArrays {
         numbers [0][1][0] = 1;
         System.out.println(Arrays.deepToString(numbers));
         // we're using deepToString for multidimensional arrays
+
+        int [][] tableNum = new int [2][2];
+        tableNum [0][0] = 1;
+        tableNum [0][1] = 2;
+        tableNum [1][0] = 3;
+        tableNum [1][1] = 4;
+        System.out.println(Arrays.deepToString(tableNum));
     }
 }
